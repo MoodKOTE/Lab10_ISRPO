@@ -229,6 +229,12 @@ button:hover{
     color: #606066;
 }
 
+.video-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+}
+
 .channel-avatar{
     width: 36px;
     height: 36px;
