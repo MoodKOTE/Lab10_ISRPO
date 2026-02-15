@@ -26,6 +26,7 @@
 - Flexbox
 - CSS Grid
 - Media Queries
+- и еще
 
 ---
 
